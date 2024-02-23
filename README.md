@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Frameworks, ML**
 
-- 👨‍💻 All of my projects are available at [manish.rocks](manish.rocks)
+- 👨‍💻 All of my projects are available at [manish.rocks](https://manish.rocks)
 
 - 💬 Ask me about **React, JS, Java**
 
