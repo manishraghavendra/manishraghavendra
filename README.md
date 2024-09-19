@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,vue,anaconda,ansible,arch,bash,blender,bitbucket,c,cs,cpp,codepen,html,css,js,debian,docker,firebase,flask,gatsby,git,gitlab,graphql,linux,matlab,neovim,postman,py,react,tensorflow,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,react,vue,anaconda,ansible,arch,bash,blender,bitbucket,c,cs,cpp,codepen,html,css,js,debian,docker,firebase,flask,gatsby,git,gitlab,graphql,linux,matlab,neovim,postman,py,react,tensorflow)](https://skillicons.dev)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishraghavendra&show_icons=true&locale=en&layout=compact&theme=radical" alt="manishraghavendra" /></p>
 
