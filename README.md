@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manishraghavendra&theme=darkhub" alt="manishraghavendra" /></a> </p>
 
-- 🌱 I’m currently learning **Frameworks, ML**
+- 🌱 I’m currently learning **ThreeJS, ML**
 
 - 👨‍💻 All of my projects are available at [manish.rocks](https://manish.rocks)
 
-- 💬 Ask me about **React, JS, Java**
+- 💬 Ask me about **Python, React, JS, Java**
 
 - 📫 How to reach me **manishraghavendra007@gmail.com**
 
