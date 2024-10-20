@@ -24,7 +24,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,vue,anaconda,ansible,arch,bash,blender,bitbucket,c,cs,cpp,codepen,html,css,js,debian,docker,firebase,flask,gatsby,git,gitlab,graphql,linux,matlab,neovim,postman,py,react,tensorflow)](https://skillicons.dev)
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/manishraghavendra?theme=transparent&font=Medula%20One&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/manishraghavendra?theme=dark&font=Medula%20One&ext=heatmap)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishraghavendra&theme=radical" alt="manishraghavendra" /></p>
 
