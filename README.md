@@ -27,5 +27,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/manishraghavendra?theme=radical&font=JetBrains%20Mono&ext=heatmap)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishraghavendra&theme=radical" alt="manishraghavendra" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=manishraghavendra&theme=dracula&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishraghavendra&show_icons=true&locale=en&layout=compact&theme=radical" alt="manishraghavendra" /></p>
