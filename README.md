@@ -29,3 +29,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishraghavendra&theme=radical" alt="manishraghavendra" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishraghavendra&show_icons=true&locale=en&layout=compact&theme=radical" alt="manishraghavendra" /></p>
+
+## Visitors Count
+
+<img align="left" src = "https://profile-counter.glitch.me/manishraghavendra/count.svg" alt ="Loading">
