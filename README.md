@@ -28,7 +28,7 @@
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manishraghavendra&theme=radical" alt="manishraghavendra" />
-<img src="https://github-readme-stats.vercel.app/api?username=manishraghavendra&theme=radical&show_icons=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=manishraghavendra&theme=radical&show_icons=true"/>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishraghavendra&show_icons=true&locale=en&layout=compact&theme=radical" alt="manishraghavendra" /></p>
