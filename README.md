@@ -33,8 +33,11 @@
 
 <p><img  align="center" src="https://trophy.ryglcloud.net/?username=manishraghavendra&theme=radical" alt="manishraghavendra"/></p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=manishraghavendra&theme=radical&hide_border=true&border_radius=15&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishraghavendra&show_icons=true&locale=en&layout=compact&theme=radical" alt="manishraghavendra" /></p> -->
 
 
-## Visitors Count
+<!-- ## Visitors Count -->
 
 <!-- <img align="left" src = "https://profile-counter.glitch.me/manishraghavendra/count.svg" alt ="Loading"> -->
