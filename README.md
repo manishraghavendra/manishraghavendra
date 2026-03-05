@@ -37,4 +37,4 @@
 
 ## Visitors Count
 
-<img align="left" src = "https://profile-counter.glitch.me/manishraghavendra/count.svg" alt ="Loading">
+<!-- <img align="left" src = "https://profile-counter.glitch.me/manishraghavendra/count.svg" alt ="Loading"> -->
