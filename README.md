@@ -22,7 +22,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-https://github-profile-trophy-liard-delta.vercel.app/?username=manishraghavendra
 
 
 [![My Skills](https://skillicons.dev/icons?i=aws,gcp,vue,anaconda,ansible,arch,bash,blender,bitbucket,c,cs,cpp,codepen,html,css,js,debian,docker,firebase,flask,gatsby,git,gitlab,graphql,linux,matlab,neovim,postman,py,react,tensorflow)](https://skillicons.dev)
