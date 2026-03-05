@@ -33,7 +33,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=manishraghavendra&show_icons=true&locale=en&layout=compact&theme=radical" alt="manishraghavendra" /></p>
 
-https://trophy.ryglcloud.net/?username=manishraghavendra&theme=dracula
+<p><img  align="center" src="https://trophy.ryglcloud.net/?username=manishraghavendra&theme=dracula" alt="manishraghavendra" 
 
 ## Visitors Count
 
